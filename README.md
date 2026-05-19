@@ -3,7 +3,7 @@
 # Víctor Hugo García Rodríguez
 
 <p>
-  <strong>Backend Engineering</strong> · <strong>QA Automation</strong> · <strong>Microservices</strong>
+  <strong>Desarrollador de Software</strong> · <strong>Especialista en Automatización QA</strong> · <strong>Microservicios</strong>
 </p>
 
 <p>
