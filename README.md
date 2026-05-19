@@ -73,10 +73,22 @@ Me interesa diseñar productos sólidos, optimizar procesos técnicos y colabora
       JavaScript
     </td>
     <td valign="top">
+      <strong>Bases de datos</strong><br><br>
+      Oracle Database<br>
+      MongoDB
+    </td>
+    <td valign="top">
+      <strong>Testing & Calidad</strong><br><br>
+      JUnit<br>
+      Mockito<br>
+      JaCoCo<br>
+      SonarQube<br>
+      Reportes de cobertura
+    </td>
+    <td valign="top">
       <strong>Cloud & Tools</strong><br><br>
       AWS<br>
       Docker<br>
-      SonarQube<br>
       JIRA<br>
       Keycloak
     </td>
