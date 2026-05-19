@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hugo García
+# Víctor Hugo García Rodríguez
 
 <p>
-  <strong>Software Developer</strong> · <strong>QA Automation Specialist</strong> · <strong>Java & TypeScript Backend</strong>
+  <strong>Backend Engineering</strong> · <strong>QA Automation</strong> · <strong>Microservices</strong>
 </p>
 
 <p>
-  Especializado en construir soluciones escalables, optimizar procesos y asegurar la calidad del software
-  mediante automatización, buenas prácticas de ingeniería y enfoque continuo en la mejora técnica.
+  Desarrollo soluciones escalables y de alta calidad con enfoque en backend con Java y TypeScript,
+  automatización QA y mejora continua de procesos técnicos.
 </p>
 
 <p>
@@ -17,15 +17,18 @@
 </p>
 
 <p>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Spring Boot" height="42" />
-  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" height="42" />
-  <img src="https://w7.pngwing.com/pngs/1004/404/png-transparent-cucumber-plain-wordmark-logo-icon.png" alt="Cucumber" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="JUnit 5" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/3840px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="AWS" height="42" />
-  <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="Oracle" height="42" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TypeScript" height="42" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/3840px-Spring_Boot.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Spring Boot" height="40" />
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" height="40" />
+  <img src="https://w7.pngwing.com/pngs/1004/404/png-transparent-cucumber-plain-wordmark-logo-icon.png" alt="Cucumber" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="JUnit 5" height="40" />
+</p>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/3840px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="AWS" height="40" />
+  <img src="https://1000logos.net/wp-content/uploads/2017/04/Oracle-Logo-1.png" alt="Oracle" height="40" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TypeScript" height="40" />
 </p>
 
 </div>
@@ -34,15 +37,15 @@
 
 ## Perfil
 
-Desarrollador de software con enfoque en **backend con Java y TypeScript**, **microservicios**, **automatización QA** y desarrollo de soluciones eficientes, mantenibles y orientadas a la calidad.
+Desarrollador de software enfocado en **backend con Java y TypeScript**, **arquitectura de microservicios** y **automatización QA**, orientado a construir soluciones eficientes, mantenibles y centradas en la calidad.
 
-Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en equipos donde la calidad, la innovación y la escalabilidad sean parte central del desarrollo.
+Me interesa diseñar productos sólidos, optimizar procesos técnicos y colaborar en entornos donde la innovación, la escalabilidad y la excelencia de ingeniería sean parte del día a día.
 
 ## Especialidades
 
 - Desarrollo backend con **Java**, **Spring Boot** y **TypeScript**
 - Arquitectura de **microservicios**
-- **Automatización QA** y aseguramiento de calidad
+- **Automatización QA** y estrategias de aseguramiento de calidad
 - Pruebas funcionales, regresión, contrato y performance
 - Desarrollo frontend con **React**, **TypeScript** y **Angular**
 - Integración de soluciones en **AWS**
@@ -109,7 +112,7 @@ Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en 
 
 ## Enfoque profesional
 
-- Calidad como parte del proceso de desarrollo, no como etapa final
+- Calidad integrada al desarrollo desde el inicio
 - Automatización para mejorar cobertura, eficiencia y confiabilidad
 - Soluciones escalables con atención al detalle técnico
 - Mejora continua, colaboración y visión práctica de producto
