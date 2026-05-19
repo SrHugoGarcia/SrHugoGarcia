@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hugo García
 
-<!--
-**SrHugoGarcia/SrHugoGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software enfocado en la creación de soluciones elegantes, funcionales y sostenibles.
 
-Here are some ideas to get you started:
+Mantengo un enfoque profesional orientado a la calidad, la claridad en la ejecución y la mejora continua. Me interesa construir productos bien estructurados, con atención al detalle y una visión práctica sobre la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil profesional
+
+- Desarrollo de software con enfoque en mantenibilidad y calidad
+- Diseño de soluciones claras, eficientes y escalables
+- Resolución de problemas con criterio técnico y visión de producto
+- Compromiso con buenas prácticas, aprendizaje constante y mejora continua
+
+## Actualmente
+
+- Desarrollando proyectos personales y profesionales
+- Profundizando en arquitectura de software y desarrollo moderno
+- Explorando herramientas, automatización y flujos de trabajo eficientes
+
+## Áreas de interés
+
+- Desarrollo web
+- Arquitectura de software
+- Automatización
+- Optimización de procesos y productividad
+
+## Contacto
+
+- GitHub: [@SrHugoGarcia](https://github.com/SrHugoGarcia)
+
+---
+
+*Profesionalismo, simplicidad y atención al detalle.*
