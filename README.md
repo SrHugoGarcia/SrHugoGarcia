@@ -3,7 +3,7 @@
 # Hugo García
 
 <p>
-  <strong>Software Developer</strong> · <strong>QA Automation Specialist</strong> · <strong>Java Microservices</strong>
+  <strong>Software Developer</strong> · <strong>QA Automation Specialist</strong> · <strong>Java & TypeScript Backend</strong>
 </p>
 
 <p>
@@ -34,13 +34,13 @@
 
 ## Perfil
 
-Desarrollador de software con enfoque en **microservicios con Java**, **automatización QA** y desarrollo de soluciones eficientes, mantenibles y orientadas a la calidad.
+Desarrollador de software con enfoque en **backend con Java y TypeScript**, **microservicios**, **automatización QA** y desarrollo de soluciones eficientes, mantenibles y orientadas a la calidad.
 
 Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en equipos donde la calidad, la innovación y la escalabilidad sean parte central del desarrollo.
 
 ## Especialidades
 
-- Desarrollo backend con **Java** y **Spring Boot**
+- Desarrollo backend con **Java**, **Spring Boot** y **TypeScript**
 - Arquitectura de **microservicios**
 - **Automatización QA** y aseguramiento de calidad
 - Pruebas funcionales, regresión, contrato y performance
@@ -56,6 +56,7 @@ Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en 
       <strong>Backend</strong><br><br>
       Java<br>
       Spring Boot<br>
+      TypeScript<br>
       Python<br>
       Flask<br>
       APIs REST<br>
