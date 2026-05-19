@@ -1,43 +1,69 @@
+<div align="center">
+
 # Hugo García
 
-Desarrollador de software especializado en microservicios con Java, automatización QA y construcción de soluciones tecnológicas orientadas a la calidad, la eficiencia y la escalabilidad.
+<p>
+  <strong>Software Developer</strong> · <strong>QA Automation Specialist</strong> · <strong>Java Microservices</strong>
+</p>
 
-Me apasiona optimizar procesos, fortalecer la calidad del software y desarrollar productos sólidos mediante buenas prácticas de ingeniería, automatización y trabajo colaborativo.
+<p>
+  Especializado en construir soluciones escalables, optimizar procesos y asegurar la calidad del software
+  mediante automatización, buenas prácticas de ingeniería y enfoque continuo en la mejora técnica.
+</p>
 
-## Perfil profesional
+</div>
 
-- Especialización en desarrollo de microservicios con **Java** y **Spring Boot**
-- Experiencia en **automatización QA** y estrategias de aseguramiento de calidad
-- Enfoque en diseño de soluciones mantenibles, eficientes y escalables
-- Interés constante en innovación, mejora continua y excelencia técnica
+---
 
-## Áreas de especialidad
+## Perfil
+
+Desarrollador de software con enfoque en **microservicios con Java**, **automatización QA** y desarrollo de soluciones eficientes, mantenibles y orientadas a la calidad.
+
+Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en equipos donde la calidad, la innovación y la escalabilidad sean parte central del desarrollo.
+
+## Especialidades
 
 - Desarrollo backend con **Java** y **Spring Boot**
 - Arquitectura de **microservicios**
-- Automatización de pruebas funcionales y de regresión
-- Pruebas de rendimiento, carga, estrés y picos
+- **Automatización QA** y aseguramiento de calidad
+- Pruebas funcionales, regresión, contrato y performance
 - Desarrollo frontend con **React**, **TypeScript** y **Angular**
 - Integración de soluciones en **AWS**
-- Calidad de código y análisis estático con **SonarQube**
+- Calidad de código con **SonarQube**
 
 ## Stack tecnológico
 
-### Backend
-- Java
-- Spring Boot
-- Python
-- Flask
-- APIs REST
-- Microservicios
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Backend</strong><br><br>
+      Java<br>
+      Spring Boot<br>
+      Python<br>
+      Flask<br>
+      APIs REST<br>
+      Microservicios
+    </td>
+    <td valign="top">
+      <strong>Frontend</strong><br><br>
+      React<br>
+      TypeScript<br>
+      Angular<br>
+      JavaScript
+    </td>
+    <td valign="top">
+      <strong>Cloud & Tools</strong><br><br>
+      AWS<br>
+      Docker<br>
+      SonarQube<br>
+      JIRA<br>
+      Keycloak
+    </td>
+  </tr>
+</table>
 
-### Frontend
-- React
-- TypeScript
-- Angular
-- JavaScript
+## QA & Automatización
 
-### QA y automatización
 - Cucumber
 - Gherkin
 - Selenium
@@ -55,35 +81,23 @@ Me apasiona optimizar procesos, fortalecer la calidad del software y desarrollar
 - Diseño de casos de prueba
 - Matriz de trazabilidad
 
-### Cloud, DevOps y herramientas
-- AWS
-- Docker
-- SonarQube
-- JIRA
-- Keycloak
+## Bases de datos e IA
 
-### Bases de datos
 - Oracle Database
 - MongoDB
-
-### IA y procesamiento de datos
 - TensorFlow
 - Clasificación de textos
 - Extracción y procesamiento de datos
 
-## Enfoque de trabajo
+## Enfoque profesional
 
-- Construcción de software con foco en calidad, mantenibilidad y escalabilidad
-- Automatización de procesos para mejorar tiempos, cobertura y confiabilidad
-- Colaboración activa con equipos multidisciplinarios de tecnología
-- Promoción de buenas prácticas de testing y desarrollo
-- Orientación a resultados y mejora continua
-
-## Formación
-
-**Ingeniería en Computación**  
-Universidad Autónoma del Estado de México
+- Calidad como parte del proceso de desarrollo, no como etapa final
+- Automatización para mejorar cobertura, eficiencia y confiabilidad
+- Soluciones escalables con atención al detalle técnico
+- Mejora continua, colaboración y visión práctica de producto
 
 ---
 
-*Software development, QA automation and scalable solutions with a quality-first mindset.*
+<div align="center">
+  <sub>Minimal design · Quality-first mindset · Scalable solutions</sub>
+</div>
