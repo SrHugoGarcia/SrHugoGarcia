@@ -11,6 +11,11 @@
   mediante automatización, buenas prácticas de ingeniería y enfoque continuo en la mejora técnica.
 </p>
 
+<p>
+  <a href="mailto:vhgr.15.dev@gmail.com">vhgr.15.dev@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/victor-hugo-garcia-rodriguez-b1822b243/">LinkedIn</a>
+</p>
+
 </div>
 
 ---
@@ -99,5 +104,5 @@ Me interesa crear productos sólidos, mejorar procesos técnicos y colaborar en 
 ---
 
 <div align="center">
-  <sub>Minimal design · Quality-first mindset · Scalable solutions</sub>
+  <sub>Víctor Hugo García Rodríguez</sub>
 </div>
